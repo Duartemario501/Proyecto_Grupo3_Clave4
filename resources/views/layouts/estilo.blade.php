@@ -11,7 +11,7 @@
     <!--header-->
     <!--nav-->
     @yield("content")
-    <img src="plaza-libertad.png" alt="fondo">
+    <img src="resources\img\plaza-libertad.png" alt="img1">
     <!--footer-->
 
 </body>
